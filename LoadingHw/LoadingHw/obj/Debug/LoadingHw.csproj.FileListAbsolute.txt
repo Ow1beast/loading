@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\LoadingHw.exe.config
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\LoadingHw.exe
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\LoadingHw.pdb
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\LoadingHw\LoadingHw\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\source\repos\LoadingHw\LoadingHw\obj\Debug\LoadingHw.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LoadingHw\LoadingHw\obj\Debug\LoadingHw.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LoadingHw\LoadingHw\obj\Debug\LoadingHw.csproj.CopyComplete
+C:\Users\user\source\repos\LoadingHw\LoadingHw\obj\Debug\LoadingHw.exe
+C:\Users\user\source\repos\LoadingHw\LoadingHw\obj\Debug\LoadingHw.pdb

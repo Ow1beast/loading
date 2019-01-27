@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadingHw", "LoadingHw\LoadingHw.csproj", "{B94679D3-2459-4289-84DA-1704E7BFBDDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94679D3-2459-4289-84DA-1704E7BFBDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94679D3-2459-4289-84DA-1704E7BFBDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94679D3-2459-4289-84DA-1704E7BFBDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94679D3-2459-4289-84DA-1704E7BFBDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4387C74F-10BB-454F-BCF0-AACE5B560295}
+	EndGlobalSection
+EndGlobal
